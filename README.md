@@ -1,6 +1,6 @@
 # udp_send_packet
 
-This is a flutter project that you can send packets with upd protocol throught specific IP and Port. 
+This is a flutter project that you can send packets with udp protocol throught specific IP and Port. 
 
 ## Getting Started
 
